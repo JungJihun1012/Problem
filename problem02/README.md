@@ -1,8 +1,11 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> * react <br />
+난이도: 쉬움
 
-Currently, two official plugins are available:
+Timer를 구현하는 것이다.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> * React 폴더를 만들 때 cra말고 Vite로 만들 것(어떻게 만드는 지 모르면 검색 및 질문)
+> * useState, useEffect를 사용한다.
+> * 컴포넌트가 언마운트가 될 때 타이머 정리
+> * 컴포넌트가 랜더링될 때마다 초 추가
